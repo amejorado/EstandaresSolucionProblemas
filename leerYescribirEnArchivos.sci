@@ -1,5 +1,5 @@
 ''''''''''''''''''''''''''''''''''''''''''''''
-' Ricardo Salgado
+' Luis Ricardo Salgado Garza
 ''''''''''''''''''''''''''''''''''''''''''''''
 function nuevoStr=leerYcodificar(dist)
     strCaracteres=('0':'9')+' '+('A':'Z');
