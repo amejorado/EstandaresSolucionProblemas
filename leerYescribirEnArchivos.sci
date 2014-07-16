@@ -1,3 +1,6 @@
+''''''''''''''''''''''''''''''''''''''''''''''
+' Ricardo Salgado
+''''''''''''''''''''''''''''''''''''''''''''''
 function nuevoStr=leerYcodificar(dist)
     strCaracteres=('0':'9')+' '+('A':'Z');
     strCaracteresCodigo=generaCodigoCesar(strCaracteres,dist);
